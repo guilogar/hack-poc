@@ -1,3 +1,6 @@
+# Hack lang
+www.pid
+
 # Cache and logs (Symfony2)
 /app/cache/*
 /app/logs/*
